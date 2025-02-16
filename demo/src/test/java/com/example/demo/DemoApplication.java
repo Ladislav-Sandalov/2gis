@@ -14,7 +14,7 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 @SpringBootApplication
-public class DemoApplicationTests {
+public class DemoApplication {
 	private static final String API_KEY = "1";
 
 	public static void main(String[] args) {
